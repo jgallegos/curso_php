@@ -2,7 +2,7 @@
 
 //Ejecutar sentencias
 
-$mysqli = new mysqli('127.0.0.1', 'root', '', "curso_php");
+$mysqli = new mysqli('127.0.0.1', 'curso_php', 'curso_phpii', "curso_php");
 
 if (!$mysqli->query("DROP TABLE IF EXISTS test") ||
     !$mysqli->query("CREATE TABLE test(id INT)") ||

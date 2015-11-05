@@ -2,7 +2,7 @@
 
 //Ejemplo de uso de affected_rows
 
-$mysqli = new mysqli('127.0.0.1', 'root', '', "curso_php");
+$mysqli = new mysqli('127.0.0.1', 'curso_php', 'curso_phpii', "curso_php");
 
 /* Comprueba la conexión */
 if (mysqli_connect_errno()) {

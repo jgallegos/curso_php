@@ -2,7 +2,7 @@
 
 //Iterar resultados de una sentencia
 
-$mysqli = new mysqli('127.0.0.1', 'root', '', "curso_php");
+$mysqli = new mysqli('127.0.0.1', 'curso_php', 'curso_phpii', "curso_php");
 
 if ($mysqli->connect_errno) {
     echo "Falló la conexión a MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
