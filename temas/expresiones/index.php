@@ -1,5 +1,5 @@
   <?
-  define('TO_ROOT','../');
+  define('TO_ROOT','../../');
 
   include_once(TO_ROOT . '/template/header.php')
 
@@ -34,4 +34,4 @@
 
     </div>
 
- <?include_once('../template/footer.php')?>;
+ <?  include_once(TO_ROOT . '/template/footer.php')?>;

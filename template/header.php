@@ -17,7 +17,7 @@
     <link href="<?=TO_ROOT?>dist/css/bootstrap-theme.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="<?=TO_ROOT?>theme.css" rel="stylesheet">
+    <link href="<?=TO_ROOT?>assets/css/theme.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -48,20 +48,18 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="<?=TO_ROOT?>index.php">Programaci&oacute;n PHP</a>
+          <a class="navbar-brand" href="<?=TO_ROOT?>index.php">Curso PHP</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li class="dropdown active">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contenido <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="<?=TO_ROOT?>expresiones/index.php">Expresiones</a></li>
-                <li><a href="<?=TO_ROOT?>funciones/index.php">Funciones</a></li>
-                <li><a href="#">Something else here</a></li>
-                <li role="separator" class="divider"></li>
-                <li class="dropdown-header">Nav header</li>
-                <li><a href="#">Separated link</a></li>
-                <li><a href="#">One more separated link</a></li>
+                <li><a href="<?=TO_ROOT?>temas/expresiones/index.php">Expresiones</a></li>
+                <li><a href="<?=TO_ROOT?>temas/funciones/index.php">Funciones</a></li>
+                <li><a href="<?=TO_ROOT?>temas/bases_datos/index.php">Bases de datos</a></li>
+                <li><a href="<?=TO_ROOT?>temas/poo/index.php">Programaci&oacute;n Orientada a Objetos</a></li>
+                <li><a href="<?=TO_ROOT?>temas/patrones_diseno/index.php">Patrones de dise&ntilde;o</a></li>
               </ul>
             </li>
           </ul>

@@ -1,15 +1,15 @@
   <?
-  define('TO_ROOT','../');
+  define('TO_ROOT','../../');
 
   include_once(TO_ROOT . '/template/header.php')
 
   ?>
 
     <div class="container" role="main">
-      <h1>Expresiones</h1>
+      <h1>Base de datos</h1>
 
       <?
-       for ($i=1; $i <= 3 ; $i++) {  
+       for ($i=1; $i <= 6 ; $i++) {  
       ?>
       <div class='row'>
         <h2>Ejemplo <?=$i?></h2>
@@ -34,4 +34,4 @@
 
     </div>
 
- <?include_once('../template/footer.php')?>;
+ <?include_once(TO_ROOT . '/template/footer.php')?>;
