@@ -6,10 +6,10 @@
   ?>
 
     <div class="container" role="main">
-      <h1>Funciones</h1>
+      <h1>Expresiones</h1>
 
       <?
-       for ($i=1; $i <= 7 ; $i++) {  
+       for ($i=1; $i <= 3 ; $i++) {  
       ?>
       <div class='row'>
         <h2>Ejemplo <?=$i?></h2>

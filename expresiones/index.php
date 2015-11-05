@@ -13,7 +13,7 @@
       ?>
       <div class='row'>
         <h2>Ejemplo <?=$i?></h2>
-          <div class="col-md-6 jumbotron">
+          <div class="col-md-8 jumbotron">
 
             <pre class="brush: php;">
 
@@ -24,7 +24,7 @@
             <button class="btn btn-primary" type="button" onclick="document.getElementById('iframe_ejemplo<?=$i?>').src='ejemplo<?=$i?>.php';">Ejecutar</button>
           </div>
 
-          <div class="col-md-6">
+          <div class="col-md-4">
             <iframe id="iframe_ejemplo<?=$i?>"  width="100%" height="230px">
               
             </iframe> 
