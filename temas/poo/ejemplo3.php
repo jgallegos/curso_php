@@ -1,5 +1,7 @@
 <?
 
+//Constructores y destructores
+
 class MiClase {
   
   protected $name = '';

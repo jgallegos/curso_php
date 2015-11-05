@@ -1,4 +1,5 @@
 <?
+// Funciones anonimas
 
 $saludo = function($nombre)
 {

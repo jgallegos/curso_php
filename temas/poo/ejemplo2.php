@@ -1,4 +1,5 @@
 <?
+//Constantes de clase
 
 class MiClase
 {

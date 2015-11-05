@@ -1,10 +1,11 @@
 <?
 
+//Operador terciario
+
 $primero = FALSE;
 $segundo = 'Segundo';
 $tercero = 'Tercero';
 
-//Operador terciario
 $resultado = $primero ? $segundo : $tercero;
 
 echo $resultado . '<br>';

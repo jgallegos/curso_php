@@ -1,4 +1,7 @@
 <?
+
+//Asignación de valores 2
+
 $a = 5;
 
 $b = $a;

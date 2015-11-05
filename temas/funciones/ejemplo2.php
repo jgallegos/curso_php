@@ -1,4 +1,5 @@
 <?
+//Ambito de las funciones
 
 $hacer_algo = true;
 

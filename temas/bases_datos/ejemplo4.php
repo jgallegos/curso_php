@@ -1,6 +1,6 @@
 <?
 
-//SENTENCIAS PREPARADAS
+//Sentencias preparadas
 
 $mysqli = new mysqli('127.0.0.1', 'root', '', "curso_php");
 

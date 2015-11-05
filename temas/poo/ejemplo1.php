@@ -1,4 +1,5 @@
 <?
+//Lo basico declración de clases con métodos y atributos
 
 class ClaseSencilla
 {

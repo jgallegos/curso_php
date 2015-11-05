@@ -1,5 +1,6 @@
 <?
 
+//Funciones variables
 function foo() {
     echo "En foo()<br />\n";
 }

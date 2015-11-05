@@ -1,4 +1,5 @@
 <?
+// Funciones de String
 
 $string = str_ireplace('o', 'OO', "Hola mundo");
 

@@ -1,4 +1,5 @@
 <?
+//Patron de diseno Observador
 
 abstract class AbstractObserver {
     abstract function update(AbstractSubject $subject_in);

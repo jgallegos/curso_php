@@ -1,6 +1,7 @@
 <?
 
-// Declarar la interfaz 'iTemplate'
+// Interfaces
+
 interface iTemplate
 {
     public function setVariable($name, $var);

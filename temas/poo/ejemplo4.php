@@ -1,5 +1,7 @@
 <?
 
+//Visibilidad de propiedades
+
 class MiClase
 {
     public $public       = 'Public';

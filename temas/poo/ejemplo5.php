@@ -1,5 +1,7 @@
 <?
 
+//Visibilidad de metodos
+
 class MiClase
 {
     // Declaración de un constructor public

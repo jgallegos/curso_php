@@ -1,5 +1,7 @@
 <?
 
+//Ejecutar sentencias
+
 $mysqli = new mysqli('127.0.0.1', 'root', '', "curso_php");
 
 if (!$mysqli->query("DROP TABLE IF EXISTS test") ||

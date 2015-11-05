@@ -1,5 +1,5 @@
-
 <?
+//Ejecutar multiples veces la sentencia preparada
 
 $mysqli = new mysqli('127.0.0.1', 'root', '', "curso_php");
 

@@ -1,4 +1,7 @@
 <?
+
+//Asignación de valores 3
+
 function foo ()
 {
     return 100;

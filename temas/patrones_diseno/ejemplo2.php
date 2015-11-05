@@ -1,4 +1,5 @@
 <?
+//Patron de diseno Adapter
 
 class EmailService(){
 

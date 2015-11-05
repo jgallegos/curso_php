@@ -1,5 +1,7 @@
 <?php
 
+//Herencia
+
 class Foo
 {
     public function printItem($string)

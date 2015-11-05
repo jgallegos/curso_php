@@ -1,5 +1,8 @@
 
 <?php
+
+//Clases abstractas
+
 abstract class ClaseAbstracta
 {
     // Forzar la extensión de clase para definir este método

@@ -1,5 +1,7 @@
 <?
 
+//Operador de resolución de ambito
+
 class MyClass {
     const CONST_VALUE = 'Un valor constante';
 }

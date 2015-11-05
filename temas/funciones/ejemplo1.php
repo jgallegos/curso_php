@@ -1,5 +1,6 @@
 <?
 
+//Funciones definidas por el usuario
 function foo($argumento1, $argumento2, $argumenton)
 {
     

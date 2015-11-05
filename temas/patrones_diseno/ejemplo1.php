@@ -1,5 +1,7 @@
 <?
 
+//Patron de diseno MVC
+
 //Model
 class CurrencyConverter {
 	private $baseValue = 0;

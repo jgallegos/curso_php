@@ -1,5 +1,7 @@
 <?
 
+//Ejemplo de uso de affected_rows
+
 $mysqli = new mysqli('127.0.0.1', 'root', '', "curso_php");
 
 /* Comprueba la conexión */

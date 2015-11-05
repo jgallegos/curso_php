@@ -1,4 +1,7 @@
 <?
+
+//Multiple asignación
+
 $a = $b = $c = 0;
 
 echo "a = $a <br>";

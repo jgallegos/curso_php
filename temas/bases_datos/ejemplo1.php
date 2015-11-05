@@ -1,5 +1,7 @@
 <?
 
+//Conexiones con la base de datos
+
 $mysqli = new mysqli('127.0.0.1', 'root', '', "curso_php");
 
 if ($mysqli->connect_errno) {

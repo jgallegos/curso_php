@@ -1,5 +1,6 @@
 <?
 
+// Argumentos por referencia y valor
 function concatena_algo(& $cadena , $cadena2)
 {
     $cadena  .= 'y algo más.';
